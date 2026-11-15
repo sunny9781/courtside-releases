@@ -1,6 +1,6 @@
 {
-  "build": 17,
-  "version": "1.0.17",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-17/Courtside.zip",
-  "notes": "Workflow: iPhone/iPad simulator screenshots with sample data"
+  "build": 19,
+  "version": "1.0.19",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-19/Courtside.zip",
+  "notes": "Add Update iPhone shortcut"
 }
