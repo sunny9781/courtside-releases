@@ -1,6 +1,6 @@
 {
-  "build": 43,
-  "version": "1.21",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-43/Courtside.zip",
-  "notes": "Apple TV Home: league chips switch on focus, live counts on chips and left column, sports sorted favourites/live/upcoming"
+  "build": 44,
+  "version": "1.22",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-44/Courtside.zip",
+  "notes": "1.22: Mac filter in the top bar; version in top bar; TV strip reloads after full screen; TV full width"
 }
