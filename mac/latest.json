@@ -1,6 +1,6 @@
 {
-  "build": 31,
-  "version": "1.0.31",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-31/Courtside.zip",
-  "notes": "Mac: drag to resize the player strip again, on every screen"
+  "build": 32,
+  "version": "1.0.32",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-32/Courtside.zip",
+  "notes": "Mac: score sits in the player strip on the game screen; resolution and frame rate under the channel name"
 }
