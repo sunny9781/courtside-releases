@@ -1,6 +1,6 @@
 {
-  "build": 19,
-  "version": "1.0.19",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-19/Courtside.zip",
-  "notes": "Add Update iPhone shortcut"
+  "build": 20,
+  "version": "1.0.20",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-20/Courtside.zip",
+  "notes": "All three shortcuts live in the shortcuts folder and work from wherever it is"
 }
