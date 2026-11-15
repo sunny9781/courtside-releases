@@ -1,6 +1,6 @@
 {
-  "build": 28,
-  "version": "1.0.28",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-28/Courtside.zip",
-  "notes": "EPG search across categories and channels; Home live/total badges, no date; Mac game screen scroll fix"
+  "build": 29,
+  "version": "1.0.29",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-29/Courtside.zip",
+  "notes": "Mac player: hover controls over the video, no drag; foreign and local streams as folding groups at the bottom"
 }
