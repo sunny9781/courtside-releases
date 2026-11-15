@@ -1,6 +1,6 @@
 {
-  "build": 4,
-  "version": "1.0.4",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-4/Courtside.zip",
-  "notes": "Rename the Courtside tab to Home; line up the Live Now badge with the sport rows"
+  "build": 5,
+  "version": "1.0.5",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-5/Courtside.zip",
+  "notes": "Apple TV icon and Top Shelf image; build-and-install workflow for the Apple TV"
 }
