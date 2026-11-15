@@ -1,6 +1,6 @@
 {
-  "build": 20,
-  "version": "1.0.20",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-20/Courtside.zip",
-  "notes": "All three shortcuts live in the shortcuts folder and work from wherever it is"
+  "build": 21,
+  "version": "1.0.21",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-21/Courtside.zip",
+  "notes": "iOS Home: connections and update time in the page instead of the top bar"
 }
