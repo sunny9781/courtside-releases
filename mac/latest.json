@@ -1,6 +1,6 @@
 {
-  "build": 8,
-  "version": "1.0.8",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-8/Courtside.zip",
-  "notes": "EPG tab name; live ties green; 4K badge instead of networks on Home cards; keep playing across tabs"
+  "build": 10,
+  "version": "1.0.10",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-10/Courtside.zip",
+  "notes": "Game screen: focus starts on the first stream"
 }
