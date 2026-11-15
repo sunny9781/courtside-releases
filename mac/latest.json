@@ -1,6 +1,6 @@
 {
-  "build": 16,
-  "version": "1.0.16",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-16/Courtside.zip",
-  "notes": "Count this app's stream straight away; safer frame-rate check; script to fetch Apple TV crash reports"
+  "build": 17,
+  "version": "1.0.17",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-17/Courtside.zip",
+  "notes": "Workflow: iPhone/iPad simulator screenshots with sample data"
 }
