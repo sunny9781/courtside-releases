@@ -1,6 +1,6 @@
 {
-  "build": 49,
+  "build": 50,
   "version": "1.26",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-49/Courtside.zip",
-  "notes": "Apple TV: player video focusable for full screen; left column matches player width; back to the same sport"
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-50/Courtside.zip",
+  "notes": "4K channels need the teams in their name or guide; network-only 4K feeds move to likely (or out)"
 }
