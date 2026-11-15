@@ -1,6 +1,6 @@
 {
-  "build": 52,
+  "build": 53,
   "version": "1.27",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-52/Courtside.zip",
-  "notes": "Apple TV: Back after full screen on a game screen returns to Home, not out of the app"
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-53/Courtside.zip",
+  "notes": "Mac player: info beside the video scales to fit instead of disappearing"
 }
