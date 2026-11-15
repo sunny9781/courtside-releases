@@ -1,6 +1,6 @@
 {
-  "build": 21,
-  "version": "1.0.21",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-21/Courtside.zip",
-  "notes": "iOS Home: connections and update time in the page instead of the top bar"
+  "build": 22,
+  "version": "1.0.22",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-22/Courtside.zip",
+  "notes": "Long scores (cricket) on their own line and cards that grow to fit; opening a game plays its first stream"
 }
