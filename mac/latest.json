@@ -1,6 +1,6 @@
 {
-  "build": 14,
-  "version": "1.0.14",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-14/Courtside.zip",
-  "notes": "Frame rates on streams and in full screen; Apple TV frame-rate matching; click to preview; Back works everywhere"
+  "build": 15,
+  "version": "1.0.15",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-15/Courtside.zip",
+  "notes": "Hide adult categories setting (on by default) on Mac and Apple TV"
 }
