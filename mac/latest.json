@@ -1,6 +1,6 @@
 {
-  "build": 5,
-  "version": "1.0.5",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-5/Courtside.zip",
-  "notes": "Apple TV icon and Top Shelf image; build-and-install workflow for the Apple TV"
+  "build": 6,
+  "version": "1.0.6",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-6/Courtside.zip",
+  "notes": "Apple TV: build for the paired device so it gets registered with the free team"
 }
