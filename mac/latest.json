@@ -1,6 +1,6 @@
 {
-  "build": 32,
-  "version": "1.0.32",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-32/Courtside.zip",
-  "notes": "Mac: score sits in the player strip on the game screen; resolution and frame rate under the channel name"
+  "build": 33,
+  "version": "1.0.33",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-33/Courtside.zip",
+  "notes": "Mac: player strip same height everywhere; score scales to fit the video's height"
 }
