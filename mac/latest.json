@@ -1,6 +1,6 @@
 {
-  "build": 46,
-  "version": "1.23",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-46/Courtside.zip",
-  "notes": "Apple TV: lists use the full width (no system side insets), lined up with the player strip"
+  "build": 47,
+  "version": "1.24",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-47/Courtside.zip",
+  "notes": "Apple TV Home: full width inside the navigation container; left column shrinks to icons while on the games"
 }
