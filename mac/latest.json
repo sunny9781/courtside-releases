@@ -1,6 +1,6 @@
 {
-  "build": 25,
-  "version": "1.0.25",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-25/Courtside.zip",
-  "notes": "One shortcut updates both the Apple TV and the iPhone"
+  "build": 26,
+  "version": "1.0.26",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-26/Courtside.zip",
+  "notes": "Streams don't reshuffle while tapping through them; sample data keeps its matches"
 }
