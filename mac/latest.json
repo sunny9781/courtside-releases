@@ -1,6 +1,6 @@
 {
-  "build": 38,
-  "version": "1.16",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-38/Courtside.zip",
-  "notes": "What's new: version numbers and release times; app versions follow the changelog"
+  "build": 39,
+  "version": "1.17",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-39/Courtside.zip",
+  "notes": "Apple TV: one player strip on every screen; iPhone: no drag; closing full screen keeps the stream in the strip"
 }
