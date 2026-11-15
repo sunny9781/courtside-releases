@@ -2,6 +2,8 @@
 
 **Mac:** [Download Courtside.zip](https://github.com/sunny9781/courtside-releases/releases/latest/download/Courtside.zip)
 
+Needs a Mac with Apple Silicon (M1 or newer).
+
 1. Unzip it and drag **Courtside** into your **Applications** folder.
 2. Open it. macOS will say it can't check the app. Click **Done**.
 3. Open **System Settings › Privacy & Security**, scroll down, click **Open Anyway** next to Courtside, and enter your Mac password.
