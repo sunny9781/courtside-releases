@@ -1,6 +1,6 @@
 {
-  "build": 30,
-  "version": "1.0.30",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-30/Courtside.zip",
-  "notes": "Mac: player strip on every screen; updater always installs the newest build; Foreign streams excludes Canada"
+  "build": 31,
+  "version": "1.0.31",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-31/Courtside.zip",
+  "notes": "Mac: drag to resize the player strip again, on every screen"
 }
