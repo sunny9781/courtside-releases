@@ -1,6 +1,6 @@
 {
-  "build": 33,
-  "version": "1.0.33",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-33/Courtside.zip",
-  "notes": "Mac: player strip same height everywhere; score scales to fit the video's height"
+  "build": 34,
+  "version": "1.0.34",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-34/Courtside.zip",
+  "notes": "Game screen: no empty gap above the streams when the score is in the player strip"
 }
