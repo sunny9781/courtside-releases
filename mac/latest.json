@@ -1,6 +1,6 @@
 {
-  "build": 7,
-  "version": "1.0.7",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-7/Courtside.zip",
-  "notes": "Show each stream's category on its own line (Mac and Apple TV)"
+  "build": 8,
+  "version": "1.0.8",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-8/Courtside.zip",
+  "notes": "EPG tab name; live ties green; 4K badge instead of networks on Home cards; keep playing across tabs"
 }
