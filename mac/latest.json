@@ -1,6 +1,6 @@
 {
-  "build": 40,
-  "version": "1.18",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-40/Courtside.zip",
-  "notes": "Space: Mac EPG panel into the strip, search on the first section line, slim TV EPG panel, iPhone score in the player, iPad player in the content column"
+  "build": 41,
+  "version": "1.19",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-41/Courtside.zip",
+  "notes": "Publish Mac updates on this repo; keep the old feed pointed here until it's deleted; install on quit"
 }
