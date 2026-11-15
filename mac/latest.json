@@ -1,6 +1,6 @@
 {
-  "build": 39,
-  "version": "1.17",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-39/Courtside.zip",
-  "notes": "Apple TV: one player strip on every screen; iPhone: no drag; closing full screen keeps the stream in the strip"
+  "build": 40,
+  "version": "1.18",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-40/Courtside.zip",
+  "notes": "Space: Mac EPG panel into the strip, search on the first section line, slim TV EPG panel, iPhone score in the player, iPad player in the content column"
 }
