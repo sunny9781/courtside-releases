@@ -1,6 +1,6 @@
 {
-  "build": 42,
-  "version": "1.20",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-42/Courtside.zip",
-  "notes": "iPhone: Filter boxes"
+  "build": 43,
+  "version": "1.21",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-43/Courtside.zip",
+  "notes": "Apple TV Home: league chips switch on focus, live counts on chips and left column, sports sorted favourites/live/upcoming"
 }
