@@ -1,6 +1,6 @@
 {
-  "build": 37,
-  "version": "1.0.37",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-37/Courtside.zip",
-  "notes": "Connection count only in Settings, as the provider reports it"
+  "build": 38,
+  "version": "1.16",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-38/Courtside.zip",
+  "notes": "What's new: version numbers and release times; app versions follow the changelog"
 }
