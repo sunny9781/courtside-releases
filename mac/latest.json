@@ -1,6 +1,6 @@
 {
-  "build": 2,
-  "version": "1.0.2",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-2/Courtside.zip",
-  "notes": "Courtside Mac app with automatic builds and in-app updates"
+  "build": 3,
+  "version": "1.0.3",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-3/Courtside.zip",
+  "notes": "Basketball app icon; build for Apple Silicon only"
 }
