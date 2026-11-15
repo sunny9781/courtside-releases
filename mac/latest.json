@@ -1,6 +1,6 @@
 {
-  "build": 29,
-  "version": "1.0.29",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-29/Courtside.zip",
-  "notes": "Mac player: hover controls over the video, no drag; foreign and local streams as folding groups at the bottom"
+  "build": 30,
+  "version": "1.0.30",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-30/Courtside.zip",
+  "notes": "Mac: player strip on every screen; updater always installs the newest build; Foreign streams excludes Canada"
 }
