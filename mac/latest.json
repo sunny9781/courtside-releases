@@ -1,6 +1,6 @@
 {
-  "build": 13,
-  "version": "1.0.13",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-13/Courtside.zip",
-  "notes": "Apple TV: keep the login in the Keychain so it survives updates"
+  "build": 14,
+  "version": "1.0.14",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-14/Courtside.zip",
+  "notes": "Frame rates on streams and in full screen; Apple TV frame-rate matching; click to preview; Back works everywhere"
 }
