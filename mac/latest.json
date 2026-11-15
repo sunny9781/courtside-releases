@@ -1,6 +1,6 @@
 {
-  "build": 34,
-  "version": "1.0.34",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-34/Courtside.zip",
-  "notes": "Game screen: no empty gap above the streams when the score is in the player strip"
+  "build": 35,
+  "version": "1.0.35",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-35/Courtside.zip",
+  "notes": "Foreign streams: French-language Canadian and Spanish US channels, grouped by language"
 }
