@@ -1,6 +1,6 @@
 {
-  "build": 41,
-  "version": "1.19",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-41/Courtside.zip",
-  "notes": "Publish Mac updates on this repo; keep the old feed pointed here until it's deleted; install on quit"
+  "build": 42,
+  "version": "1.20",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-42/Courtside.zip",
+  "notes": "iPhone: Filter boxes"
 }
