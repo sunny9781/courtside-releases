@@ -1,6 +1,6 @@
 {
-  "build": 45,
+  "build": 46,
   "version": "1.23",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-45/Courtside.zip",
-  "notes": "Apple TV: full screen drawn in the same screen, so the player strip keeps its picture"
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-46/Courtside.zip",
+  "notes": "Apple TV: lists use the full width (no system side insets), lined up with the player strip"
 }
