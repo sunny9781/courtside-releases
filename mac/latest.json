@@ -1,6 +1,6 @@
 {
-  "build": 36,
-  "version": "1.0.36",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-36/Courtside.zip",
-  "notes": "Mac: the game's score stays in the player strip on every screen while its stream plays"
+  "build": 37,
+  "version": "1.0.37",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-37/Courtside.zip",
+  "notes": "Connection count only in Settings, as the provider reports it"
 }
