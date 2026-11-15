@@ -1,6 +1,6 @@
 {
-  "build": 48,
-  "version": "1.25",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-48/Courtside.zip",
-  "notes": "1.25: Mac player capped at half the window with adaptive details; stream cards sized to text; TV game screen without Back; 4K only when named"
+  "build": 49,
+  "version": "1.26",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-49/Courtside.zip",
+  "notes": "Apple TV: player video focusable for full screen; left column matches player width; back to the same sport"
 }
