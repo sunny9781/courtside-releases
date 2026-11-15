@@ -1,6 +1,6 @@
 {
-  "build": 53,
+  "build": 54,
   "version": "1.27",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-53/Courtside.zip",
-  "notes": "Mac player: info beside the video scales to fit instead of disappearing"
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-54/Courtside.zip",
+  "notes": "Apple TV: after full screen, focus returns to the stream or channel you were watching"
 }
