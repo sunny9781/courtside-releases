@@ -1,6 +1,6 @@
 {
-  "build": 54,
-  "version": "1.27",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-54/Courtside.zip",
-  "notes": "Apple TV: after full screen, focus returns to the stream or channel you were watching"
+  "build": 55,
+  "version": "1.28",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-55/Courtside.zip",
+  "notes": "No score beside the video (the broadcast shows it)"
 }
