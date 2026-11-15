@@ -1,6 +1,6 @@
 {
-  "build": 27,
-  "version": "1.0.27",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-27/Courtside.zip",
-  "notes": "What's new: changelog in Settings \u203a Updates on every app, filtered to that app"
+  "build": 28,
+  "version": "1.0.28",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-28/Courtside.zip",
+  "notes": "EPG search across categories and channels; Home live/total badges, no date; Mac game screen scroll fix"
 }
