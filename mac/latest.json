@@ -1,6 +1,6 @@
 {
-  "build": 10,
-  "version": "1.0.10",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-10/Courtside.zip",
-  "notes": "Game screen: focus starts on the first stream"
+  "build": 11,
+  "version": "1.0.11",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-11/Courtside.zip",
+  "notes": "Apple TV install: skip simulators, use the real Apple TV"
 }
