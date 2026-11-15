@@ -1,6 +1,6 @@
 {
-  "build": 26,
-  "version": "1.0.26",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-26/Courtside.zip",
-  "notes": "Streams don't reshuffle while tapping through them; sample data keeps its matches"
+  "build": 27,
+  "version": "1.0.27",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-27/Courtside.zip",
+  "notes": "What's new: changelog in Settings \u203a Updates on every app, filtered to that app"
 }
