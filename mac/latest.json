@@ -1,6 +1,6 @@
 {
-  "build": 22,
-  "version": "1.0.22",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-22/Courtside.zip",
-  "notes": "Long scores (cricket) on their own line and cards that grow to fit; opening a game plays its first stream"
+  "build": 23,
+  "version": "1.0.23",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-23/Courtside.zip",
+  "notes": "Score cards sized per sport to fit every team name and score"
 }
