@@ -1,6 +1,6 @@
 {
-  "build": 50,
-  "version": "1.26",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-50/Courtside.zip",
-  "notes": "4K channels need the teams in their name or guide; network-only 4K feeds move to likely (or out)"
+  "build": 52,
+  "version": "1.27",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-52/Courtside.zip",
+  "notes": "Apple TV: Back after full screen on a game screen returns to Home, not out of the app"
 }
