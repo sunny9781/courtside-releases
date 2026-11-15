@@ -1,6 +1,6 @@
 {
-  "build": 3,
-  "version": "1.0.3",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-3/Courtside.zip",
-  "notes": "Basketball app icon; build for Apple Silicon only"
+  "build": 4,
+  "version": "1.0.4",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-4/Courtside.zip",
+  "notes": "Rename the Courtside tab to Home; line up the Live Now badge with the sport rows"
 }
