@@ -1,6 +1,6 @@
 {
-  "build": 12,
-  "version": "1.0.12",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-12/Courtside.zip",
-  "notes": "Nothing runs on Sunny's Mac: Mac builds on GitHub's Macs; Apple TV updated by a command"
+  "build": 13,
+  "version": "1.0.13",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-13/Courtside.zip",
+  "notes": "Apple TV: keep the login in the Keychain so it survives updates"
 }
