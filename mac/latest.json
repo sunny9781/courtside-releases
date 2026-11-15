@@ -1,6 +1,6 @@
 {
-  "build": 24,
-  "version": "1.0.24",
-  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-24/Courtside.zip",
-  "notes": "Pinned player on iPhone/iPad and Mac (only while something plays); tap video shows info; black-screen streams fall back to VLC"
+  "build": 25,
+  "version": "1.0.25",
+  "url": "https://github.com/sunny9781/courtside-releases/releases/download/mac-25/Courtside.zip",
+  "notes": "One shortcut updates both the Apple TV and the iPhone"
 }
