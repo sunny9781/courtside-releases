@@ -1,6 +1,6 @@
 {
-  "build": 59,
-  "version": "1.31",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-59/Courtside.zip",
-  "notes": "Add the Android TV build workflow"
+  "build": 60,
+  "version": "1.32",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-60/Courtside.zip",
+  "notes": "Merge android: Android TV app, stage 1"
 }
