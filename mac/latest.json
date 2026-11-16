@@ -1,6 +1,6 @@
 {
-  "build": 55,
-  "version": "1.28",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-55/Courtside.zip",
-  "notes": "No score beside the video (the broadcast shows it)"
+  "build": 56,
+  "version": "1.29",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-56/Courtside.zip",
+  "notes": "iPhone: Home sports/leagues and EPG filter at the bottom for the right thumb; Sign out on the right; What's new latest only"
 }
