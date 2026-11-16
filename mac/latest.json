@@ -1,6 +1,6 @@
 {
-  "build": 58,
+  "build": 59,
   "version": "1.31",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-58/Courtside.zip",
-  "notes": "Apple TV: small top margin like the sides; no hint under the player title"
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-59/Courtside.zip",
+  "notes": "Add the Android TV build workflow"
 }
