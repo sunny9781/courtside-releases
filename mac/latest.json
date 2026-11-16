@@ -1,6 +1,6 @@
 {
-  "build": 62,
-  "version": "1.34",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-62/Courtside.zip",
-  "notes": "Merge android3: streams play on Android TV (1.34)"
+  "build": 63,
+  "version": "1.35",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-63/Courtside.zip",
+  "notes": "Merge fixes135 (1.35)"
 }
