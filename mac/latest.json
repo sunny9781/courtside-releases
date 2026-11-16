@@ -1,6 +1,6 @@
 {
-  "build": 61,
-  "version": "1.33",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-61/Courtside.zip",
-  "notes": "Merge android2: Android TV works like the Apple TV app (1.33)"
+  "build": 62,
+  "version": "1.34",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-62/Courtside.zip",
+  "notes": "Merge android3: streams play on Android TV (1.34)"
 }
