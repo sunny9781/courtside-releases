@@ -1,6 +1,6 @@
 {
-  "build": 105,
-  "version": "1.79",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-105/Courtside.zip",
-  "notes": "Merge home-redzone: 1.79"
+  "build": 106,
+  "version": "1.85",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-106/Courtside.zip",
+  "notes": "1.84: EPG ready faster (Apple)"
 }
