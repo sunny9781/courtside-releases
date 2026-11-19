@@ -1,6 +1,6 @@
 {
-  "build": 106,
-  "version": "1.85",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-106/Courtside.zip",
-  "notes": "1.84: EPG ready faster (Apple)"
+  "build": 107,
+  "version": "1.95",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-107/Courtside.zip",
+  "notes": "Merge batch-mac-ios-cards: 1.95 (Mac, iPhone, Apple TV, Android)"
 }
