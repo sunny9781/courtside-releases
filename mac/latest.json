@@ -1,6 +1,6 @@
 {
-  "build": 108,
-  "version": "1.96",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-108/Courtside.zip",
-  "notes": "Merge nav-polish: 1.96 (Android, Apple TV, Mac, iPhone)"
+  "build": 109,
+  "version": "1.98",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-109/Courtside.zip",
+  "notes": "Merge mac-tv-parity: 1.98 (Mac follows the TV apps)"
 }
