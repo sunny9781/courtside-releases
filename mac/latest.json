@@ -1,6 +1,6 @@
 {
-  "build": 110,
-  "version": "1.99",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-110/Courtside.zip",
-  "notes": "Merge mac-finished-fold: 1.99 (Mac)"
+  "build": 111,
+  "version": "2.1",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-111/Courtside.zip",
+  "notes": "Merge mac-epg-column: 2.1 (Mac EPG, Reading EPG)"
 }
