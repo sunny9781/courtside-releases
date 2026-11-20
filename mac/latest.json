@@ -1,6 +1,6 @@
 {
-  "build": 111,
-  "version": "2.1",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-111/Courtside.zip",
-  "notes": "Merge mac-epg-column: 2.1 (Mac EPG, Reading EPG)"
+  "build": 112,
+  "version": "2.2",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-112/Courtside.zip",
+  "notes": "Merge lite-later: 2.2 (Later today only in Android Lite mode)"
 }
