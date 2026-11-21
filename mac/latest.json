@@ -1,6 +1,6 @@
 {
-  "build": 121,
-  "version": "2.14",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-121/Courtside.zip",
-  "notes": "Merge quality-top: 2.14 (highest quality first on the game screen)"
+  "build": 122,
+  "version": "2.15",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-122/Courtside.zip",
+  "notes": "Merge quality-hdr: 2.15 (HDR and sound break quality ties)"
 }
