@@ -1,6 +1,6 @@
 {
-  "build": 122,
-  "version": "2.15",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-122/Courtside.zip",
-  "notes": "Merge quality-hdr: 2.15 (HDR and sound break quality ties)"
+  "build": 123,
+  "version": "2.16",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-123/Courtside.zip",
+  "notes": "Merge reconnect: 2.16 (Reconnect button in full screen)"
 }
