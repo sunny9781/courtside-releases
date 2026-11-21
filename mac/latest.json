@@ -1,6 +1,6 @@
 {
-  "build": 119,
-  "version": "2.10",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-119/Courtside.zip",
-  "notes": ""
+  "build": 120,
+  "version": "2.12",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-120/Courtside.zip",
+  "notes": "Merge hdr-tag: 2.12 (HDR tag, Apple TV + Android)"
 }
