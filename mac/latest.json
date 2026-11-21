@@ -1,6 +1,6 @@
 {
-  "build": 125,
-  "version": "2.21",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-125/Courtside.zip",
-  "notes": "Merge apple-batch: 2.21 (Apple apps catch up with Android)"
+  "build": 126,
+  "version": "2.22",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-126/Courtside.zip",
+  "notes": "Merge perf-matcher: faster matching and guide lookups (2.22)"
 }
