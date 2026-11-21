@@ -1,6 +1,6 @@
 {
-  "build": 123,
-  "version": "2.16",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-123/Courtside.zip",
-  "notes": "Merge reconnect: 2.16 (Reconnect button in full screen)"
+  "build": 124,
+  "version": "2.17",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-124/Courtside.zip",
+  "notes": "Merge no-sound: 2.17 (No sound tag, ranked last)"
 }
