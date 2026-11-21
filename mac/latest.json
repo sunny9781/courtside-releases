@@ -1,6 +1,6 @@
 {
-  "build": 126,
-  "version": "2.22",
-  "url": "https://github.com/sunny9781/courtside/releases/download/mac-126/Courtside.zip",
-  "notes": "Merge perf-matcher: faster matching and guide lookups (2.22)"
+  "build": 127,
+  "version": "2.28",
+  "url": "https://github.com/sunny9781/courtside/releases/download/mac-127/Courtside.zip",
+  "notes": "Merge main: Apple TV EPG reliability dots become 2.28"
 }
